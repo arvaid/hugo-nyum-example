@@ -1,4 +1,4 @@
-baseURL = 'https://hugo-nyum.github.io'
+baseURL = 'https://arvaid.github.io/hugo-nyum-example/'
 DefaultContentLanguage = "en"
 title = 'Hugo-Nyum'
 # theme = "nyum"
