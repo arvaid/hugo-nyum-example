@@ -1,0 +1,11 @@
+baseURL = 'https://hugo-nyum.github.io'
+DefaultContentLanguage = "en"
+title = 'Hugo-Nyum'
+# theme = "nyum"
+enableGitInfo = true
+
+[outputs]
+    home  = [ "HTML", "JSON"]
+
+[taxonomies]
+  category = "categories"
